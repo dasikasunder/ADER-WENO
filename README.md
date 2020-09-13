@@ -1,2 +1,2 @@
 # ADER-WENO
-Codes to solve hyperbolic conservation laws using ADER-WENO schemes
+Set of Fortran 90 Codes to solve hyperbolic conservation laws in 1D and 2D using one step ADER-WENO schemes.   
